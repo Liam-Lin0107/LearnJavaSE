@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6de82db9-25ed-4f75-aac9-db6ef37559fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Data Science/.idea/Data Science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DataSpell/Data Analysis Project/Comprehensive data exploration/.idea/Comprehensive data exploration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DataSpell_Python/.idea/DataSpell_Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DataStructure/Sort/Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Debug/Debug.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/GenericDemo/myGenericDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Practice/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myAbstract/myAbstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myArgs/myArgs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myArray/myArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myArrayList/myArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myArrays/myArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myClass/myClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myCollection/myCollection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myCollections/myCollections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myDiGuiDemo/myDiGuiDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myDuoTai/myDuoTai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myException/myException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myExtends/myExtends.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myFile/myFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myFinal/myFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myGeneric/myGeneric.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myInnerClass/myInnerClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myInteger/myInteger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myInterface/myInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myList/myList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myMap/myMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myMath/myMath.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myMethod/myMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myModifier/myModifier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myObject/myObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/mySet/mySet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myStatic/myStatic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myString/myString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myStringBuilder/myStringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/mySystem/mySystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myTest/myTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/myThread/myThread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/Hash/Hash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/Hash/src/com/class01/Code01_HashAndTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/LinkedList/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/LinkedList/src/com/class01/Code04_IsPalindromeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/Sort/Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_media_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_media_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_web_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_web_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_base_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_media_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_media_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_web_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_openjfx_javafx_web_mac_aarch64_17_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/Course/Course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/Course/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/Course/src/main/java/com/class01/StageDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/Course/src/main/java/com/example/course/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/Course/src/main/java/com/example/course/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/Course/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/Course/src/main/resources/com/example/course/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstGUI/firstGUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/Financial Algorithms/Part1/Part1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/Hash/Hash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/Hash/src/com/class01/Code01_HashAndTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/JavaDataStucture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaDataStucture/Sort/Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MachineLearning/ML practice/.idea/ML practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MachineLearning/Pytorch/.idea/Pytorch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MachineLearning/keras/.idea/keras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PyCharm/.idea/PyCharm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Pyhton/Pycharm/Practice/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../idea_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python data structure/.idea/python data structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python data structure/class basic/.idea/class basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/myTest/src/class01/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/myTest/src/class01/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaCode/Baisc/src/class001/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaCode/Baisc/src/class002/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Financial Algorithms/Part1/src/com/class01/HelloWord.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="25Jl8ZNUXORiGC8cPAMsMtjRnEH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HelloApplication" />
+      <module name="FXCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6de82db9-25ed-4f75-aac9-db6ef37559fd" name="Changes" comment="" />
+      <created>1645252911989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645252911989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

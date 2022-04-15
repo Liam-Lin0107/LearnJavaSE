@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="346524e2-d7e2-4ee6-9ee4-087f4438b911" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java/Practice/src/com/class01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class01/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class01/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class02/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class02/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class03/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class03/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myAbstract/src/com/class03/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myArgs/src/com/class01/CarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myArgs/src/com/class01/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myArgs/src/com/class01/CatOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myArrays/src/com/class01/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myArrays/src/com/class02/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myCollection/src/com/class01/CollectionDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myCollection/src/com/class01/CollectionDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myCollection/src/com/class02/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myCollection/src/com/class03/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myCollection/src/com/class03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myCollections/src/com/class01/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myCollections/src/com/class02/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myCollections/src/com/class02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class01/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class01/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class02/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class02/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class03/AnimalOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class03/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class03/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class03/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class03/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class04/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class04/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myDuoTai/src/com/class04/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myException/src/com/class01/ExceptionDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myException/src/com/class02/ExceptionDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myException/src/com/class04/ScoreExpection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myException/src/com/class04/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myException/src/com/class04/TecherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myException/src/com/class93/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class01/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class02/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class02/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class03/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class03/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class03/Genericimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class04/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class04/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class05/ArgsDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myGeneric/src/com/class05/ArgsDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class01/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class02/InnerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class02/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class03/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class03/OuterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class04/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class04/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class04/OuterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class05/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class05/Jumpping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class05/JumppingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInnerClass/src/com/class05/JumppingOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInteger/src/com/class01/IntegerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInteger/src/com/class01/IntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class01/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class01/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class01/Jumpping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class01/JumppingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class02/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class02/InterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class02/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class03/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class03/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class03/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class03/Jumpping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class04/Inter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class04/Inter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class04/Inter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class04/InterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class05/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class05/AlarmDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class05/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class06/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class06/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class06/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class06/LearnEnglish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myInterface/src/com/class06/PingPongAthlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myList/src/com/class01/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myList/src/com/class01/ListDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myList/src/com/class02/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myList/src/com/class02/併發修改異常的源碼分析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myList/src/com/class03/ListIteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myList/src/com/class04/ForDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myList/src/com/class05/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myList/src/com/class05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myList/src/com/class06/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMap/src/com/class01/MapDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMap/src/com/class01/MapDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMap/src/com/class02/MapDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMap/src/com/class03/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMap/src/com/class03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMap/src/com/class04/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMap/src/com/class04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMap/src/com/class05/ArrayListIncludeHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMap/src/com/class06/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myMath/src/com/class01/MathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myObject/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myObject/src/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myObject/src/com/class01/ObjectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myObject/src/com/class01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class01/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class02/HashDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class03/HashSetDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class04/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class05/LinkedHashSetDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class06/TreeSetDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class06/TreeSetDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class07/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class07/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class08/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class08/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySet/src/com/class09/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myStatic/src/com/class01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myStatic/src/com/class01/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/mySystem/src/com/class01/SystemDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myTest/src/class01/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myThread/src/com/class01/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myThread/src/com/class01/MyThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myThread/src/com/class02/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/myThread/src/com/class02/MyThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part1/src/com/class01/HelloWord.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="258UYXoVASmrNBL7EESXi8nzlMJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="346524e2-d7e2-4ee6-9ee4-087f4438b911" name="Changes" comment="" />
+      <created>1644908255000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644908255000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
